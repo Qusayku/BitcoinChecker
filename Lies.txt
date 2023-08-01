@@ -1,0 +1,6 @@
+Hallo. Dieses Skript zeigt dir mit einem Befehl deine Bitcoin Adresse ein.
+Ist doch bedenklich und gut wenns für gutes genutzt wird.
+
+1. git clone https://github.com/Qusayku/BitcoinChecker.git
+2. cd BitcoinChecker
+3.python3 BitcoinChecker.py
